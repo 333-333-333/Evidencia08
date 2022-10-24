@@ -1,0 +1,6 @@
+public enum EstadoCliente {
+	NUEVO,
+	ACTIVO,
+	BLOQUEDAO_TEMPORALMENTE,
+	PROHIBIDO
+}
